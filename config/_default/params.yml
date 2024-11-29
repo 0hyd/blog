@@ -17,7 +17,7 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
+author: 黑夜岛
 description: "少女祈祷中..."
 subtitle: "少女祈祷中..."
 
@@ -108,7 +108,7 @@ social:
   # steam: https://steamcommunity.com/id/yourname
 
 footer:
-  since: 2020 # 2020-current_year
+  since: 2021 # 2020-current_year
   powered: true
   count: true
   busuanzi: true
@@ -321,7 +321,7 @@ font:
 
 # ICP 备案
 icp:
-  icpnumber: # ICP备案号
+  icpnumber: 桂ICP备2023000045号-1 # ICP备案号
   beian:  # 网安备案号
   recordcode: # 网安备案链接中的recordcode参数
 
