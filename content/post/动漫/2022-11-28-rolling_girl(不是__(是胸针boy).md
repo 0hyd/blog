@@ -23,7 +23,6 @@ PostType: post
 showToc: 0
 ---
 
-
 **一切都是命运石之门的选择**
 第一次画较长的GIF图片
 ![gif动图][1]
@@ -46,5 +45,3 @@ showToc: 0
 [Meting]
 [Music server="netease" id="29777035" type="song"/]
 [/Meting]
-
-
