@@ -321,7 +321,7 @@ font:
 
 # ICP 备案
 icp:
-  icpnumber: 桂ICP备2023000045号-1 # ICP备案号
+  icpnumber:  # ICP备案号
   beian:  # 网安备案号
   recordcode: # 网安备案链接中的recordcode参数
 
