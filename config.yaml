@@ -1,13 +1,11 @@
-baseURL: https://example.com
-languageCode: en-us
+baseURL: https://heiyedao.top
+languageCode: zh-cn
 title: Hugo
 theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: en
+defaultContentLanguage: zh
 
-# !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
-themesDir: ../../
 
 hasCJKLanguage: true
 permalinks:
@@ -45,7 +43,7 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Heiyedao
   # Author biography
   bio: Software Engineer
   # Site Description, used in HTML meat
