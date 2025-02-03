@@ -1,0 +1,4 @@
+baseURL = 'https://blog.heiyedao.top'
+languageCode = 'zh-cn'
+title = 'My New Hugo Site'
+theme = 'mini'
