@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 80
 title: minecraft基岩版纹理包制作
-slug: 80
 date: 2023-01-10T09:55:00+08:00
 lastmod: 2023-04-22T06:41:06+08:00
 status: publish

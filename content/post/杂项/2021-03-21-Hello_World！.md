@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 61
 title: Hello World！
-slug: 61
 date: 2021-03-21T00:00:00+08:00
 lastmod: 2023-04-22T06:43:45+08:00
 status: publish

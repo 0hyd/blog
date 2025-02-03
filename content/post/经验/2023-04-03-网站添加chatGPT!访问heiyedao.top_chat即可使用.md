@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 351
 title: 网站添加chatGPT!访问heiyedao.top/chat即可使用
-slug: 351
 date: 2023-04-03T17:46:00+08:00
 lastmod: 2023-04-22T06:35:45+08:00
 status: publish

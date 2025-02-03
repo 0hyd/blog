@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 345
 title: Code::Blocks的使用
-slug: 345
 date: 2023-04-01T23:19:00+08:00
 lastmod: 2023-04-22T06:38:26+08:00
 status: publish

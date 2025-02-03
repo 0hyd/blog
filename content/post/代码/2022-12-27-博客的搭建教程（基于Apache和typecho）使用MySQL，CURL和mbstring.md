@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 27
 title: 博客的搭建教程（基于Apache和typecho）使用MySQL，CURL和mbstring
-slug: 27
 date: 2022-12-27T22:13:00+08:00
 lastmod: 2023-04-22T06:46:31+08:00
 status: publish

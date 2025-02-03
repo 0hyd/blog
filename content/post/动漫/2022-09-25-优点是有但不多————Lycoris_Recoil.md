@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 18
 title: 优点是有但不多————Lycoris Recoil
-slug: 18
 date: 2022-09-25T23:20:00+08:00
 lastmod: 2023-04-22T07:09:53+08:00
 status: publish

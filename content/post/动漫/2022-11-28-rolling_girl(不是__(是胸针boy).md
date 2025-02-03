@@ -1,8 +1,6 @@
 ---
 layout: post
-cid: 42
 title: rolling girl(不是  (是胸针boy)
-slug: 42
 date: 2022-11-28T02:24:00+08:00
 lastmod: 2023-04-22T06:44:35+08:00
 status: publish
