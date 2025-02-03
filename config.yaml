@@ -1,6 +1,6 @@
 baseURL: https://blog.heiyedao.top
 languageCode: zh-cn
-title: Hugo
+title: My Blog
 theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -11,7 +11,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 5
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
