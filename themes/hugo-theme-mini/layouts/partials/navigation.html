@@ -11,6 +11,9 @@
 	{{ end }}
 
 	{{ if .Site.Params.enableRSS }}
-	  <a class="button" href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}{{ i18n "subscribe" }}{{ end }}</a>
-	{{ end }}
+	<a class="button" href="{{ .Site.BaseURL }}index.xml">
+	  {{ with .Site.Params.subscribe }}{{ . }}{{ else }}{{ i18n "subscribe" }}{{ end }}
+	</a>
+  {{ end }}
+  
 </nav>
