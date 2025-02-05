@@ -409,4 +409,4 @@ v1/chat/completions
   [7]: https://ai.bo-e.com/
   [8]: https://geekch.art/
   [9]: https://chat.binjie.site:7777/
-  [10]: https://heiyedao.top/usr/uploads/2023/04/4033078659.png
+  [10]: https://img.imgdd.com/f210f3.bd4bdfc5-7a49-4345-ada9-8f08e30005d3.png
