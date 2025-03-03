@@ -86,16 +86,16 @@ Stop debugger：结束调试
 3. 打开code::blocks时软件图标会在任务栏疯狂跳动，这个bug可以追溯到13.xx版本，至今未修复，但不影响正常使用
 4. 想要打开之前的工程文件，找到为.obj后缀的文件打开即可
 5. 建议先编译看看报错信然后再运行
-  [1]: https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
-  [2]: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe
-  [3]: https://heiyedao.top/usr/uploads/2023/04/2776917405.png
-  [4]: https://heiyedao.top/usr/uploads/2023/04/1847120459.png
-  [5]: https://heiyedao.top/usr/uploads/2023/04/2669802548.png
-  [6]: https://heiyedao.top/usr/uploads/2023/04/785286533.png
-  [7]: https://heiyedao.top/usr/uploads/2023/04/640464637.png
-  [8]: https://heiyedao.top/usr/uploads/2023/04/4137636301.png
-  [9]: https://heiyedao.top/usr/uploads/2023/04/1665906051.png
-  [10]: https://heiyedao.top/usr/uploads/2023/04/3801020496.png
-  [11]: https://heiyedao.top/usr/uploads/2023/04/4078430448.png
-  [12]: https://heiyedao.top/usr/uploads/2023/04/2869794408.png
-  [13]: https://heiyedao.top/usr/uploads/2023/04/4146973640.png
+[1]: https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
+[2]: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe
+[3]: https://img.imgdd.com/f78c9fe4-8495-48b0-acde-49bff9e0b551.png
+[4]: https://img.imgdd.com/fce64ef9-58bc-4ed7-b938-c329229f2554.png
+[5]: https://img.imgdd.com/d5a62e99-797d-4ca1-8006-8a1009b2d041.png
+[6]: https://img.imgdd.com/d2c75a72-aa70-4803-a227-4100a77f4eb4.png
+[7]: https://img.imgdd.com/f439868a-1170-4bc9-a60b-a7d60909b941.png
+[8]: https://img.imgdd.com/9e25e83a-4737-4330-ad26-e6885c42c1f8.png
+[9]: https://img.imgdd.com/b5075ab5-e0bd-4898-a829-adf438f43182.png
+[10]: https://img.imgdd.com/942c6c23-3c61-49bb-b718-933becb15b92.png
+[11]: https://img.imgdd.com/ceb0b125-f1d2-4329-9916-c66e49d60e19.png
+[12]: https://img.imgdd.com/4edde2f3-a873-4ecc-981b-3bf6babddc9f.png
+[13]: https://img.imgdd.com/e9737977-1e1c-47e8-9c35-93b6a4383a42.png

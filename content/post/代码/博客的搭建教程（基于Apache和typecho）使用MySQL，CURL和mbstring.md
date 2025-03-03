@@ -118,15 +118,16 @@ showToc: 1
     sudo apt install php-mysqli  php-curl php-mbstring
 **若中通遇到[y/n],就是问需不需要继续安装，输入“y”即可**
 建议先添加MySQL，若中途在配置MySQL出了问题，就直接去服务器官网控制台重装系统
+
 #### MySQL的配置
 MySQL是一个数据库，[常用指令传送门][17]，需要设置一下用户密码，由于MySQL在服务器的设置很玄乎，似乎不同服务器下载下来的MySQL的版本不同，有些指令不是通用的，这里列出几种方法
 **注意：mysql指令后面都需要加上“；”结束指令**
 1. 刚开始MySQL是没有密码的，可以直接登陆，输入
          sudo mysql -uroot -p
-然后直接回车就可以直接进入数据库
-输入指令
+     然后直接回车就可以直接进入数据库
+     输入指令
         ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password by '114514';
-***114514*是你要设置的密码**
+     ***114514*是你要设置的密码**
 2. MySQL在一开始是有默认密码的，输入下面指令获取
         sudo cat /etc/mysql/debian.cnf
 
@@ -134,12 +135,12 @@ MySQL是一个数据库，[常用指令传送门][17]，需要设置一下用户
    图片中password是密码，例子P8hdnr0U3oQ8OCNi，然后输入
         mysql -u debian-sys-maint -p
         这个debian-sys-maint是用户名，然后在“-p”后面输入密码，密码是类似上面一串数字的
-接着重复上面的指令，逐个尝试
+    接着重复上面的指令，逐个尝试
         set password for root@localhost = password('114514');
         alter user 'root'@'localhost' identified by '114514';
         set password for 'root'@'localhost' = password('114514');​
         ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password by '114514';
-这几条指令的作用是一样的，但只有一条是有用的，请挨个尝试，***114514*是你要设置的密码**
+    这几条指令的作用是一样的，但只有一条是有用的，请挨个尝试，***114514*是你要设置的密码**
 
 #### 判断成功的方法，输入
     sudo mysql -uroot -p123456
@@ -202,33 +203,33 @@ MySQL退出指令
 
 #### 自此，网站的搭建就完成了，如果想像我的网站一样富有特色，请到typecho官网论坛下载主题，插件等  [传送门][30]
 
-  [1]: https://heiyedao.lanzouw.com/iRmv20dxsidg
-  [2]: https://help.aliyun.com/knowledge_detail/36907.html
-  [3]: http://docs.typecho.org/install
-  [4]: https://activity.huaweicloud.com/
-  [5]: https://www.aliyun.com/
-  [6]: https://activity.huaweicloud.com/
-  [7]: https://www.xshell.com/zh/free-for-home-school/
-  [8]: https://cdn.staticaly.com/gh/0hyd/picture@main/QQ%E6%88%AA%E5%9B%BE20221227141613.png
-  [9]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B75.png
-  [10]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B76.png
-  [11]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B71.png
-  [12]: https://cdn.staticaly.com/gh/0hyd/picture@main/QQ%E6%88%AA%E5%9B%BE20221227142229.png
-  [13]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B72.png
-  [14]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B73.png
-  [15]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B74.png
-  [16]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B77.png
-  [17]: https://blog.csdn.net/lllliulin/article/details/51526569
-  [18]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B78.png
-  [19]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B79.png
-  [20]: http://typecho.org/download
-  [21]: https://heiyedao.lanzouw.com/iDZb60jj4ihi
-  [22]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B70.png
-  [23]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B710.png
-  [24]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B711.png
-  [25]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B712.png
-  [26]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B713.png
-  [27]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B715.png
-  [28]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B717.webp
-  [29]: https://cdn.staticaly.com/gh/0hyd/picture@main/%C2%B716.png
-  [30]: https://typecho.me/
+[1]: https://heiyedao.lanzouw.com/iRmv20dxsidg
+[2]: https://help.aliyun.com/knowledge_detail/36907.html
+[3]: http://docs.typecho.org/install
+[4]: https://activity.huaweicloud.com/
+[5]: https://www.aliyun.com/
+[6]: https://activity.huaweicloud.com/
+[7]: https://www.xshell.com/zh/free-for-home-school/
+[8]: https://img.imgdd.com/037bceb4-99c4-420e-b1bf-99bc88f6cb06.png
+[9]: https://img.imgdd.com/03ef86d3-4f94-4e86-b82d-f38f6017fd17.png
+[10]: https://img.imgdd.com/68f7e41f-aaa6-4d33-b043-bde1787f7e02.png
+[11]: https://img.imgdd.com/75e9f2cb-0958-44fc-af33-8ee3193d2ae5.png
+[12]: https://img.imgdd.com/abb978e6-2487-4515-94ef-6c0e2c1997c5.png
+[13]: https://img.imgdd.com/00b31033-5ca8-4c17-b4d4-ab9615e210e7.png
+[14]: https://img.imgdd.com/813a8c3a-c83c-471e-84f9-4904543f5dd9.png
+[15]: https://img.imgdd.com/c9c3a889-416b-4121-88cb-71877a65e4ce.png
+[16]: https://img.imgdd.com/1f493ddf-b53d-477f-95cb-3766a53f6d20.png
+[17]: https://blog.csdn.net/lllliulin/article/details/51526569
+[18]: https://img.imgdd.com/3489f9b6-d4f3-47b0-b882-e8b41caf2b48.png
+[19]: https://img.imgdd.com/74ab0f41-ce6a-4569-99dc-6fbc28d46729.png
+[20]: http://typecho.org/download
+[21]: https://heiyedao.lanzouw.com/iDZb60jj4ihi
+[22]: https://img.imgdd.com/1a078b26-42a7-492a-add3-cc11a715b8ee.png
+[23]: https://img.imgdd.com/c3cea100-61ec-46c4-8745-54748841acf9.png
+[24]: https://img.imgdd.com/1ed4e746-ea9c-4f39-9e2a-ceeedacfb257.png
+[25]: https://img.imgdd.com/78ba0a65-6db2-4f81-acc6-6c37e4e2368e.png
+[26]: https://img.imgdd.com/ba65c87b-e543-4059-9266-b60dbca8e5be.png
+[27]: https://img.imgdd.com/6fb18d47-a808-4438-a4d1-0564a56832e7.png
+[28]: https://img.imgdd.com/aba9fa46-6986-44df-a353-e865a1470665.webp
+[29]: https://img.imgdd.com/516ba15d-8984-4578-b8c7-250d490e6869.png
+[30]: https://typecho.me/

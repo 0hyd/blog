@@ -28,8 +28,9 @@ showToc: 0
 下面是加上音乐的
 
 [rolling 胸针mp4][2]
-  [1]: https://heiyedao.top/usr/uploads/2022/11/3446697795.gif
-  [2]: https://heiyedao.top/usr/uploads/2022/11/3360992986.mp4
+
+[1]: https://i.postimg.cc/prpq8BY0/3446697795.gif
+[2]: https://heiyedao.lanzn.com/iHtOI2pgccmf
 
 放音乐,**音乐没有出来就刷新一下页面**
 《rolling girl》

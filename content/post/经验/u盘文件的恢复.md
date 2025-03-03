@@ -44,12 +44,13 @@ showToc: 0
 ![软件界面][3]
 最后可以格式化你的U盘了，格式化以后可以使用uwrtext软件测试是不是扩容盘
 ![uwrtext][4]
+
 [uwrtext下载][5]
 ----------
 扩展：U盘32gb以上建议使用NTFS格式进行格式化，大文件不容易丢失，小容量用FAT32即可，兼容性好。
 
-  [1]: https://heiyedao.lanzouw.com/isXhB0dv94wf
-  [2]: https://cdn.staticaly.com/gh/0hyd/picture@main/QQ%E6%88%AA%E5%9B%BE20221016094655.png
-  [3]: https://cdn.staticaly.com/gh/0hyd/picture@main/20221.png
-  [4]: https://cdn.staticaly.com/gh/0hyd/picture@main/QQ%E6%88%AA%E5%9B%BE20221016095147.png
-  [5]: https://heiyedao.lanzouw.com/iFctw0dvakvg
+[1]: https://heiyedao.lanzouw.com/isXhB0dv94wf
+[2]: https://img.imgdd.com/6b22d82d-bbb4-491b-a2fa-90e185449a54.png
+[3]: https://img.imgdd.com/0c4e6614-7d6e-4777-a96e-cbd518428607.png
+[4]: https://img.imgdd.com/3d3de057-5737-450c-a44f-0e00bb41f323.png
+[5]: https://heiyedao.lanzouw.com/iFctw0dvakvg

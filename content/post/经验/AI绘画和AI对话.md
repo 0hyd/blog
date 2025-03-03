@@ -31,7 +31,7 @@ showToc: 1
 [6pen art][3]
 [mhhklmy][4]
 [扫二维码或小程序搜“画der”][5]
-<img src="https://heiyedao.top/usr/uploads/2023/01/1579163903.jpg" width="250" height="250"/>
+<img src="https://img.imgdd.com/ccf42861-fb49-4c1f-9cf8-003df3837d8f.jpg" width="250" height="250"/>
 
 **使用有门槛**
 [Stable Diffusion][6][完全免费]
@@ -56,7 +56,7 @@ showToc: 1
   </div>
 </div>
 
-<img src="https://heiyedao.top/usr/uploads/2023/01/2020678501.png" width="" height="250"/>
+<img src="https://img.imgdd.com/16742370-3494-4a6c-833f-cc32af29f869.png" width="" height="250"/>
 挖坑……
 
 # # AI对话
@@ -74,7 +74,7 @@ showToc: 1
 [chatbot公益网站][16]
 微信搜索公众号“智客Ai助手”（功能较少）
 微信搜索公众号“亿柏Technology”或扫二维码
-<img src="https://heiyedao.top/usr/uploads/2023/01/2401138129.jpg" height="200"/>
+<img src="https://img.imgdd.com/9d324e80-baaa-4269-a58b-6fad084fcb30.jpg" height="200"/>
 
 **需要注册**
 [替代品chatsonic][17]
@@ -107,24 +107,24 @@ showToc: 1
 
 看我博客的另一篇网站，[传送门][21]
 
-  [1]: https://www.wujiebantu.com/ai
-  [2]: http://flagstudio.baai.ac.cn/
-  [3]: https://6pen.art/generate
-  [4]: https://ai.mhhklmy.cn/
-  [5]: https://heiyedao.top/usr/uploads/2023/01/1579163903.jpg
-  [6]: https://huggingface.co/spaces/stabilityai/stable-diffusion
-  [7]: https://aistudio.baidu.com/aistudio/projectdetail/4905623?contributionType=1
-  [8]: https://aistudio.baidu.com/aistudio/projectdetail/4459390
-  [9]: https://colab.research.google.com/drive/1zuK0u8UW8IKMEvVNz7lU34Qph_gS14XD
-  [10]: https://t.me/mnbnovelaibot
-  [11]: http://moefuta.com/
-  [12]: https://openai.com/blog/chatgpt/
-  [13]: https://ai.bo-e.com/
-  [14]: https://geekch.art/
-  [15]: https://chat.binjie.site:7777/
-  [16]: http://101.132.169.133:1645/
-  [17]: https://writesonic.com/chat
-  [18]: https://wwp.lanzoup.com/i8GBN0m6m1mj
-  [19]: https://sms-activate.org/getNumber
-  [20]: https://openai.com/blog/chatgpt/
-  [21]: https://heiyedao.top/351.html
+[1]: https://www.wujiebantu.com/ai
+[2]: http://flagstudio.baai.ac.cn/
+[3]: https://6pen.art/generate
+[4]: https://ai.mhhklmy.cn/
+[5]: https://heiyedao.top/usr/uploads/2023/01/1579163903.jpg
+[6]: https://huggingface.co/spaces/stabilityai/stable-diffusion
+[7]: https://aistudio.baidu.com/aistudio/projectdetail/4905623?contributionType=1
+[8]: https://aistudio.baidu.com/aistudio/projectdetail/4459390
+[9]: https://colab.research.google.com/drive/1zuK0u8UW8IKMEvVNz7lU34Qph_gS14XD
+[10]: https://t.me/mnbnovelaibot
+[11]: http://moefuta.com/
+[12]: https://openai.com/blog/chatgpt/
+[13]: https://ai.bo-e.com/
+[14]: https://geekch.art/
+[15]: https://chat.binjie.site:7777/
+[16]: http://101.132.169.133:1645/
+[17]: https://writesonic.com/chat
+[18]: https://wwp.lanzoup.com/i8GBN0m6m1mj
+[19]: https://sms-activate.org/getNumber
+[20]: https://openai.com/blog/chatgpt/
+[21]: https://heiyedao.top/351.html

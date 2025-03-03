@@ -130,8 +130,8 @@ splashes模板
 
 **纹理包讲解大概就是这些，这里只是引入门的教程，按照这里操作，一个简单的纹理包就可以制作出来**
 
-  [1]: https://heiyedao.lanzouw.com/ijJNJ0klygif
-  [2]: https://heiyedao.top/usr/uploads/2023/01/2918867742.json
-  [3]: https://heiyedao.top/usr/uploads/2023/01/3981267547.json
-  [4]: https://heiyedao.top/usr/uploads/2023/01/2941087290.json
-  [5]: https://heiyedao.top/usr/uploads/2023/01/983475658.png
+[1]: https://heiyedao.lanzouw.com/ijJNJ0klygif
+[2]: https://heiyedao.lanzn.com/ihCVf2pgf2ub
+[3]: https://heiyedao.lanzn.com/ihCVf2pgf2ub
+[4]: https://heiyedao.lanzn.com/ihCVf2pgf2ub
+[5]: https://img.imgdd.com/85269d97-66a1-4f84-bc31-8d14afde859a.png
