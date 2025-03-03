@@ -86,6 +86,9 @@ Stop debugger：结束调试
 3. 打开code::blocks时软件图标会在任务栏疯狂跳动，这个bug可以追溯到13.xx版本，至今未修复，但不影响正常使用
 4. 想要打开之前的工程文件，找到为.obj后缀的文件打开即可
 5. 建议先编译看看报错信然后再运行
+
+
+
 [1]: https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
 [2]: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe
 [3]: https://img.imgdd.com/f78c9fe4-8495-48b0-acde-49bff9e0b551.png
