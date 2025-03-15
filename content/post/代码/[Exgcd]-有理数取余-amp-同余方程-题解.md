@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Exgcd] 【模板】有理数取余&amp; [NOIP2012 提高组] 同余方程 题解.'
+title: '[Exgcd]-有理数取余-amp-同余方程-题解'
 date: 2022-12-10T20:02:00+08:00
 lastmod: 2023-03-13T22:45:21+08:00
 status: publish
@@ -63,7 +63,7 @@ ax + by=1
 ```cpp
 
 (x % b + b) % b
-```  
+```
 
 为啥呢.我们手玩一下可知, x 递增 b 之后,或者, y 递增 a 之后,都不会出现无解的状况.因为我们有
 ![solution1082_1_5](https://cdn.luogu.com.cn/upload/image_hosting/kudwgyi2.png)
@@ -85,7 +85,7 @@ int gcd(int a,int b){
 	if(!b)return a;
 	return gcd(b,a%b);//重点
 }
-```  
+```
 
 ![solution1082_2](https://cdn.luogu.com.cn/upload/image_hosting/po1g1jw7.png)
 
@@ -122,7 +122,7 @@ ll exgcd(ll a,ll b,ll&x,ll&y){
     y-=(a/b)*x;
     return xx;
 }
-```  
+```
 
 ~~还有啥位运算gcd什么的奇技淫巧我就不发出来误导大家了,毕竟本蒟蒻自己都没学会.~~  
 
@@ -169,7 +169,7 @@ int main(){
 
     return 0;
 }
-```  
+```
 
 好让我们来另外一道题目开开胃.  
 
@@ -223,7 +223,7 @@ int main(){
     return 0;
 }
 
-```  
+```
 
 # 后记
 

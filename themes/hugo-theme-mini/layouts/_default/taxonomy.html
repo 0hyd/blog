@@ -2,8 +2,7 @@
 {{ partial "profile.html" . }}
 
 <section id="archive">
-   
-    {{ range .Data.Pages.GroupByDate "2006" }}
+    {{ range .Data.Pages.GroupByDate "year" "desc" }}
         <div class="group">
             <h3 class="key">
                 {{ .Key }}
@@ -22,7 +21,7 @@
                       {{ with .Params.tags }}
                           <div class="tags">
                               {{ range . }}
-                                  <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+                                <a href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
                               {{ end }}
                           </div>
                       {{ end}}
